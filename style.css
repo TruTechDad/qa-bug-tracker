@@ -9,3 +9,50 @@ body {
   margin: auto;
   padding: 20px;
 }
+
+form {
+  display: grid;
+  gap: 10px;
+}
+
+input,
+textarea,
+select,
+button {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+}
+
+button {
+  background: #3b82f6;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+.bug {
+  background: #1e293b;
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.high {
+  background: #dc2626;
+}
+.medium {
+  background: #f59e0b;
+}
+.low {
+  background: #dfeb77;
+}
