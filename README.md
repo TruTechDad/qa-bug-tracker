@@ -41,4 +41,4 @@ This project is licensed under the terms of the [MIT License](https://opensource
 
 ## Screenshots
 
-![Screenshot of Screenshot 2025-12-25 at 12.45.12 PM.png](/Screenshot 2025-12-25 at 12.45.12 PM.png)
+![ScreenshotQABug](/Screenshot%202025-12-25%20at%2012.45.12 PM.png)
